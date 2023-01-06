@@ -1,0 +1,6 @@
+nltk
+speechrecognition 
+googletrans 
+pyttsx3 
+openai 
+python-dotenv

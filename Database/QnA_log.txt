@@ -1,0 +1,43 @@
+24/11/2022 | 01:26 PM24/11/2022 | 01:26 PM24/11/2022 | 01:24 PM24/11/2022 | 01:19 PM
+Date : 24/11/2022 | 01:19 PM 
+Question : what is Ai 
+Jarvis : Ai is a computer program that is designed to simulate human intelligence and behavior.
+Date : 24/11/2022 | 01:24 PM 
+Question : what is AI 
+Jarvis : AI is a computer program that is designed to simulate human intelligence and behavior.
+Date : 24/11/2022 | 01:26 PM 
+Question : what is school 
+Jarvis : School is an educational institution designed to provide learning spaces and resources for the teaching of students under the direction of teachers.
+Date : 24/11/2022 | 01:26 PM 
+Question : where is surat 
+Jarvis : Surat is a city located in the state of Gujarat in India.
+Date : 24/11/2022 | 01:30 PM 
+Question : where is nyc 
+Jarvis : NYC is a city located in the state of New York in the United States of America.
+Date : 24/11/2022 | 01:32 PM 
+Question : where is dehli 
+Jarvis : Dehli is a city located in the state of Delhi in India.
+Date : 24/11/2022 | 01:33 PM 
+Question : where is mumbai 
+Jarvis : Mumbai is a city located in the state of Maharashtra in India.
+Date : 24/11/2022 | 01:37 PM 
+Question : where is surat 
+Jarvis : Surat is a city located in the state of Gujarat in India.
+Date : 24/11/2022 | 01:38 PM 
+Question : what is phone 
+Jarvis : A phone is a device that is used to make and receive telephone calls.
+Date : 24/11/2022 | 01:40 PM 
+Question : where is mumbai 
+Answer : Mumbai is a city located in the state of Maharashtra in India.
+Date : 24/11/2022 | 01:41 PM 
+Question : where is surat 
+Answer : Surat is a city located in the state of Gujarat in India.
+Date : 24/11/2022 | 01:43 PM 
+Question : where is surat 
+Answer : Surat is a city located in the state of Gujarat in India.
+Date : 24/11/2022 | 01:44 PM 
+Question : where is Nyc 
+Answer : NYC is a city located in the state of New York in the United States of America.
+Date : 24/11/2022 | 01:45 PM 
+Question : hi jarvis where is nyc 
+Answer : NYC is a city located in the state of New York in the United States of America.
